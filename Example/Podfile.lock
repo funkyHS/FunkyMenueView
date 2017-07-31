@@ -1,0 +1,16 @@
+PODS:
+  - FunkyMenueView (0.1.0)
+
+DEPENDENCIES:
+  - FunkyMenueView (from `../`)
+
+EXTERNAL SOURCES:
+  FunkyMenueView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FunkyMenueView: 48d79a9a6c4bc4204187128adc0785184e5d83d4
+
+PODFILE CHECKSUM: 66d9a1df1aedbcd710d9ef21328d4175ecabbc58
+
+COCOAPODS: 1.2.1
