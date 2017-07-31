@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FunkyMenueView_Example' do
+  pod 'FunkyMenueView', :path => '../'
+
+  target 'FunkyMenueView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
